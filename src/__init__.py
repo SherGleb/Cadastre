@@ -1,0 +1,1 @@
+from src.cadastre_app.models import *
